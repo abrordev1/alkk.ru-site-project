@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'FiraSansExtraCondensed';
+    src: url(@/assets/fonts/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'Geologica';
+    src: url(@/assets/fonts/Geologica/Geologica-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: 'Geologica';
+    src: url(@/assets/fonts/Geologica/Geologica-SemiBold.ttf);
+    font-weight: 600;
+}
